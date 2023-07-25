@@ -1,3 +1,5 @@
 # control-repo
 
+puppet essential
+
 
